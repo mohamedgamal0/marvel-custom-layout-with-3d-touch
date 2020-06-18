@@ -9,21 +9,38 @@
 /* Begin PBXBuildFile section */
 		EDA08BEC249BFCD600182838 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BEB249BFCD600182838 /* AppDelegate.swift */; };
 		EDA08BEE249BFCD600182838 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BED249BFCD600182838 /* SceneDelegate.swift */; };
-		EDA08BF0249BFCD600182838 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BEF249BFCD600182838 /* ViewController.swift */; };
-		EDA08BF3249BFCD600182838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF1249BFCD600182838 /* Main.storyboard */; };
 		EDA08BF5249BFCD900182838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF4249BFCD900182838 /* Assets.xcassets */; };
 		EDA08BF8249BFCD900182838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */; };
+		EDA08C09249BFE2F00182838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA08C08249BFE2F00182838 /* Main.storyboard */; };
+		EDA08C0C249BFF0E00182838 /* ImageClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C0B249BFF0E00182838 /* ImageClass.swift */; };
+		EDA08C0E249BFF5000182838 /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C0D249BFF5000182838 /* ImageCell.swift */; };
+		EDA08C14249BFFEA00182838 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C13249BFFEA00182838 /* DetailVC.swift */; };
+		EDA08C16249C000600182838 /* PreviewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C15249C000600182838 /* PreviewVC.swift */; };
+		EDA08C18249C002800182838 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C17249C002800182838 /* MainVC.swift */; };
+		EDA08C1B249C00E600182838 /* HelpingConstants+Funcs+Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C1A249C00E600182838 /* HelpingConstants+Funcs+Enums.swift */; };
+		EDA08C1D249C011600182838 /* CollectionDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C1C249C011600182838 /* CollectionDataSource.swift */; };
+		EDA08C20249C03DA00182838 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08C1F249C03DA00182838 /* File.swift */; };
+		EDF0A808249C144A00DC4250 /* MainVC+CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF0A807249C144A00DC4250 /* MainVC+CollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EDA08BE8249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UICollectionView Custom Flow layOut with 3d Transation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDA08BEB249BFCD600182838 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EDA08BED249BFCD600182838 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EDA08BEF249BFCD600182838 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		EDA08BF2249BFCD600182838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EDA08BF4249BFCD900182838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDA08BF7249BFCD900182838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDA08BF9249BFCD900182838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDA08C08249BFE2F00182838 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		EDA08C0B249BFF0E00182838 /* ImageClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClass.swift; sourceTree = "<group>"; };
+		EDA08C0D249BFF5000182838 /* ImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
+		EDA08C13249BFFEA00182838 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		EDA08C15249C000600182838 /* PreviewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewVC.swift; sourceTree = "<group>"; };
+		EDA08C17249C002800182838 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
+		EDA08C1A249C00E600182838 /* HelpingConstants+Funcs+Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HelpingConstants+Funcs+Enums.swift"; sourceTree = "<group>"; };
+		EDA08C1C249C011600182838 /* CollectionDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionDataSource.swift; sourceTree = "<group>"; };
+		EDA08C1F249C03DA00182838 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		EDF0A806249C126500DC4250 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EDF0A807249C144A00DC4250 /* MainVC+CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainVC+CollectionView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +57,7 @@
 		EDA08BDF249BFCD600182838 = {
 			isa = PBXGroup;
 			children = (
+				EDF0A806249C126500DC4250 /* README.md */,
 				EDA08BEA249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */,
 				EDA08BE9249BFCD600182838 /* Products */,
 			);
@@ -56,15 +74,111 @@
 		EDA08BEA249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */ = {
 			isa = PBXGroup;
 			children = (
-				EDA08BEB249BFCD600182838 /* AppDelegate.swift */,
-				EDA08BED249BFCD600182838 /* SceneDelegate.swift */,
-				EDA08BEF249BFCD600182838 /* ViewController.swift */,
-				EDA08BF1249BFCD600182838 /* Main.storyboard */,
-				EDA08BF4249BFCD900182838 /* Assets.xcassets */,
-				EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */,
-				EDA08BF9249BFCD900182838 /* Info.plist */,
+				EDA08BFF249BFCFA00182838 /* App Delegates */,
+				EDA08C05249BFD7400182838 /* Shell */,
+				EDA08C00249BFD2800182838 /* Core */,
+				EDA08C0A249BFED700182838 /* Resorces */,
 			);
 			path = "UICollectionView Custom Flow layOut with 3d Transation";
+			sourceTree = "<group>";
+		};
+		EDA08BFF249BFCFA00182838 /* App Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08BEB249BFCD600182838 /* AppDelegate.swift */,
+				EDA08BED249BFCD600182838 /* SceneDelegate.swift */,
+			);
+			path = "App Delegates";
+			sourceTree = "<group>";
+		};
+		EDA08C00249BFD2800182838 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C1E249C03C600182838 /* Custom Flow LayOut */,
+				EDA08C19249C00C900182838 /* Helpers */,
+				EDA08C01249BFD3B00182838 /* MVC */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		EDA08C01249BFD3B00182838 /* MVC */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C02249BFD4B00182838 /* Model */,
+				EDA08C03249BFD5200182838 /* View */,
+				EDA08C04249BFD5600182838 /* Controller */,
+			);
+			path = MVC;
+			sourceTree = "<group>";
+		};
+		EDA08C02249BFD4B00182838 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C0B249BFF0E00182838 /* ImageClass.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EDA08C03249BFD5200182838 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C0D249BFF5000182838 /* ImageCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EDA08C04249BFD5600182838 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C13249BFFEA00182838 /* DetailVC.swift */,
+				EDA08C15249C000600182838 /* PreviewVC.swift */,
+				EDA08C17249C002800182838 /* MainVC.swift */,
+				EDF0A807249C144A00DC4250 /* MainVC+CollectionView.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EDA08C05249BFD7400182838 /* Shell */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C06249BFD8600182838 /* Storyboards */,
+			);
+			path = Shell;
+			sourceTree = "<group>";
+		};
+		EDA08C06249BFD8600182838 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C08249BFE2F00182838 /* Main.storyboard */,
+				EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		EDA08C0A249BFED700182838 /* Resorces */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08BF4249BFCD900182838 /* Assets.xcassets */,
+				EDA08BF9249BFCD900182838 /* Info.plist */,
+			);
+			path = Resorces;
+			sourceTree = "<group>";
+		};
+		EDA08C19249C00C900182838 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C1A249C00E600182838 /* HelpingConstants+Funcs+Enums.swift */,
+				EDA08C1C249C011600182838 /* CollectionDataSource.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		EDA08C1E249C03C600182838 /* Custom Flow LayOut */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08C1F249C03DA00182838 /* File.swift */,
+			);
+			path = "Custom Flow LayOut";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +239,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDA08C09249BFE2F00182838 /* Main.storyboard in Resources */,
 				EDA08BF8249BFCD900182838 /* LaunchScreen.storyboard in Resources */,
 				EDA08BF5249BFCD900182838 /* Assets.xcassets in Resources */,
-				EDA08BF3249BFCD600182838 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +252,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDA08BF0249BFCD600182838 /* ViewController.swift in Sources */,
+				EDA08C14249BFFEA00182838 /* DetailVC.swift in Sources */,
+				EDA08C16249C000600182838 /* PreviewVC.swift in Sources */,
+				EDF0A808249C144A00DC4250 /* MainVC+CollectionView.swift in Sources */,
+				EDA08C1D249C011600182838 /* CollectionDataSource.swift in Sources */,
 				EDA08BEC249BFCD600182838 /* AppDelegate.swift in Sources */,
+				EDA08C0E249BFF5000182838 /* ImageCell.swift in Sources */,
+				EDA08C20249C03DA00182838 /* File.swift in Sources */,
+				EDA08C0C249BFF0E00182838 /* ImageClass.swift in Sources */,
 				EDA08BEE249BFCD600182838 /* SceneDelegate.swift in Sources */,
+				EDA08C1B249C00E600182838 /* HelpingConstants+Funcs+Enums.swift in Sources */,
+				EDA08C18249C002800182838 /* MainVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		EDA08BF1249BFCD600182838 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EDA08BF2249BFCD600182838 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -285,8 +399,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = ZMN78CD7T5;
-				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Info.plist";
+				DEVELOPMENT_TEAM = Z3VRR5S7M3;
+				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Resorces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,8 +417,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = ZMN78CD7T5;
-				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Info.plist";
+				DEVELOPMENT_TEAM = Z3VRR5S7M3;
+				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Resorces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
