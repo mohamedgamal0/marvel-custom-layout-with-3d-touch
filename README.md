@@ -4,8 +4,7 @@
 ![Xcode 11.5](https://img.shields.io/badge/Xcode-11.0-blue) 
 ![Swift 5.0](https://img.shields.io/badge/Swift-5.0-green) 
 ![iOS 13](https://img.shields.io/badge/iOS%20-13-brightgreen)
-
-<img src="Resources/Untitled.mov" width="300">
+<img src="Resources/movie.GIF" width="300">
 <img src="Resources/screenShoot.png" width="300">
 <img src="Resources/screenShoot2.png" width="300">
 <img src="Resources/screenShoot3.png" width="300">
