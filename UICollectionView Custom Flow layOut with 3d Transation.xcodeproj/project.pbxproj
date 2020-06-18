@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EDA08BEC249BFCD600182838 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BEB249BFCD600182838 /* AppDelegate.swift */; };
+		EDA08BEE249BFCD600182838 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BED249BFCD600182838 /* SceneDelegate.swift */; };
+		EDA08BF0249BFCD600182838 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA08BEF249BFCD600182838 /* ViewController.swift */; };
+		EDA08BF3249BFCD600182838 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF1249BFCD600182838 /* Main.storyboard */; };
+		EDA08BF5249BFCD900182838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF4249BFCD900182838 /* Assets.xcassets */; };
+		EDA08BF8249BFCD900182838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EDA08BE8249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UICollectionView Custom Flow layOut with 3d Transation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDA08BEB249BFCD600182838 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EDA08BED249BFCD600182838 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		EDA08BEF249BFCD600182838 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EDA08BF2249BFCD600182838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EDA08BF4249BFCD900182838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EDA08BF7249BFCD900182838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EDA08BF9249BFCD900182838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EDA08BE5249BFCD600182838 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EDA08BDF249BFCD600182838 = {
+			isa = PBXGroup;
+			children = (
+				EDA08BEA249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */,
+				EDA08BE9249BFCD600182838 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EDA08BE9249BFCD600182838 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08BE8249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EDA08BEA249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */ = {
+			isa = PBXGroup;
+			children = (
+				EDA08BEB249BFCD600182838 /* AppDelegate.swift */,
+				EDA08BED249BFCD600182838 /* SceneDelegate.swift */,
+				EDA08BEF249BFCD600182838 /* ViewController.swift */,
+				EDA08BF1249BFCD600182838 /* Main.storyboard */,
+				EDA08BF4249BFCD900182838 /* Assets.xcassets */,
+				EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */,
+				EDA08BF9249BFCD900182838 /* Info.plist */,
+			);
+			path = "UICollectionView Custom Flow layOut with 3d Transation";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EDA08BE7249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDA08BFC249BFCD900182838 /* Build configuration list for PBXNativeTarget "UICollectionView Custom Flow layOut with 3d Transation" */;
+			buildPhases = (
+				EDA08BE4249BFCD600182838 /* Sources */,
+				EDA08BE5249BFCD600182838 /* Frameworks */,
+				EDA08BE6249BFCD600182838 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "UICollectionView Custom Flow layOut with 3d Transation";
+			productName = "UICollectionView Custom Flow layOut with 3d Transation";
+			productReference = EDA08BE8249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EDA08BE0249BFCD600182838 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1140;
+				LastUpgradeCheck = 1140;
+				ORGANIZATIONNAME = "mohamed gamal";
+				TargetAttributes = {
+					EDA08BE7249BFCD600182838 = {
+						CreatedOnToolsVersion = 11.4;
+					};
+				};
+			};
+			buildConfigurationList = EDA08BE3249BFCD600182838 /* Build configuration list for PBXProject "UICollectionView Custom Flow layOut with 3d Transation" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EDA08BDF249BFCD600182838;
+			productRefGroup = EDA08BE9249BFCD600182838 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EDA08BE7249BFCD600182838 /* UICollectionView Custom Flow layOut with 3d Transation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EDA08BE6249BFCD600182838 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA08BF8249BFCD900182838 /* LaunchScreen.storyboard in Resources */,
+				EDA08BF5249BFCD900182838 /* Assets.xcassets in Resources */,
+				EDA08BF3249BFCD600182838 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EDA08BE4249BFCD600182838 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDA08BF0249BFCD600182838 /* ViewController.swift in Sources */,
+				EDA08BEC249BFCD600182838 /* AppDelegate.swift in Sources */,
+				EDA08BEE249BFCD600182838 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EDA08BF1249BFCD600182838 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA08BF2249BFCD600182838 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EDA08BF6249BFCD900182838 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDA08BF7249BFCD900182838 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EDA08BFA249BFCD900182838 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EDA08BFB249BFCD900182838 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EDA08BFD249BFCD900182838 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZMN78CD7T5;
+				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.UICollectionView-Custom-Flow-layOut-with-3d-Transation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EDA08BFE249BFCD900182838 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZMN78CD7T5;
+				INFOPLIST_FILE = "UICollectionView Custom Flow layOut with 3d Transation/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.UICollectionView-Custom-Flow-layOut-with-3d-Transation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDA08BE3249BFCD600182838 /* Build configuration list for PBXProject "UICollectionView Custom Flow layOut with 3d Transation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA08BFA249BFCD900182838 /* Debug */,
+				EDA08BFB249BFCD900182838 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDA08BFC249BFCD900182838 /* Build configuration list for PBXNativeTarget "UICollectionView Custom Flow layOut with 3d Transation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDA08BFD249BFCD900182838 /* Debug */,
+				EDA08BFE249BFCD900182838 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDA08BE0249BFCD600182838 /* Project object */;
+}
