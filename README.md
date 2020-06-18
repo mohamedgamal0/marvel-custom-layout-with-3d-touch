@@ -11,7 +11,7 @@
 
 <img src="Resources/screenShoot2.png" width="300">
 
-<img src="Resources/screenShoot3.PNG" width="300">
+<img src="Resources/IMG_9640 3.PNG" width="300">
 
 
 ### Note**: While the iOS Simulator does provide support for 3D Touch, your computer or Trackpad must have Force Touch enabled. Even with Force Touch enabled, the gesture can be tricky to get the hang of. I recommend you follow along with a 3D Touch enabled device, if at all possible.
